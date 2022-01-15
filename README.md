@@ -1,3 +1,11 @@
 # JZ2440_V3_MOWANG
 深圳大学本科自动化嵌入式Linux课程学习记录
-Author: Ruan Yubin
+
+作者：Ruan YuBin
+
+内容概要：
+
+（1）基础课：裸板硬件和应用开发
+
+（2）荣誉课：u-boot、文件系统、系统内核、驱动开发
+
